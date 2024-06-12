@@ -1,2 +1,2 @@
 # FundsCalculater
-This is a small python calculator to calculate funds in virtual coin.
+This is a small python calculator to calculate funds in virtual coin use python.
